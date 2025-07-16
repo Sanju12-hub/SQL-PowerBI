@@ -1,4 +1,3 @@
-<img width="1266" height="702" alt="image" src="https://github.com/user-attachments/assets/22bfc66b-5195-4c04-8de3-5288cb9bfc75" /># SQL-PowerBI
 📊 Power BI Pizza Sales Dashboard | SQL + Data Analytics Project Analyze pizza sales data using SQL and Power BI to generate business insights, KPIs, and interactive dashboards. Includes trend analysis, category breakdowns, and top/bottom performers.
 🍕 Pizza Sales Analysis – Power BI + SQL Project
 
