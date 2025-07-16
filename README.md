@@ -11,6 +11,8 @@ Power BI Desktop
 
 Excel (Data Source)
 
+download dataset from here 👉 . https://github.com/Sanju12-hub/SQL-PowerBI/blob/main/pizza_sales.csv
+
 👉 View Full SQL Queries. https://github.com/Sanju12-hub/SQL-PowerBI/blob/main/pizza_sales_queries.sql
 
 📊 Power BI Dashboard Features
